@@ -1,0 +1,8 @@
+[2026-10-12 10:15:01] INFO Function 'OrderProcessor' started.
+[2026-10-12 10:15:02] ERROR Authentication failed: Access token is invalid or expired.
+[2026-10-12 10:15:05] ERROR Dependency timeout while calling external API.
+[2026-10-12 10:15:08] ERROR Service Bus message processing failed.
+[2026-10-12 10:15:10] ERROR Database connection failed.
+[2026-10-12 10:15:12] WARNING Request throttled by remote service. HTTP 429.
+[2026-10-12 10:15:15] ERROR Unhandled exception occurred in OrderProcessor.
+[2026-10-12 10:15:18] INFO Function 'OrderProcessor' completed.
